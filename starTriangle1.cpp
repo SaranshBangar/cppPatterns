@@ -1,7 +1,7 @@
 // Sample Output
 
 // Enter no. of rows : 5
-// * 
+// *
 // * * 
 // * * * 
 // * * * * 
