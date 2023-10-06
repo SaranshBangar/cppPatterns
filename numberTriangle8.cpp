@@ -13,7 +13,7 @@ int main()
 {
     int row;
 
-    cout<<"Enter no. of rows : ";
+    cout<<"Enter no. of rows : "<<endl;
     cin>>row;
 
     for (int i=1;i<=row;i++)
