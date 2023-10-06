@@ -15,10 +15,10 @@ int main()
 {
     int row, col;
 
-    cout<<"Enter no. of rows : ";
+    cout<<"Enter no. of rows : "<<endl;
     cin>>row;
 
-    cout<<"Enter no. of columns : ";
+    cout<<"Enter no. of columns : "<<endl;
     cin>>col;
 
     for (int i=1;i<=row;i++)
