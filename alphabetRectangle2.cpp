@@ -16,10 +16,10 @@ int main()
     int rowcol;
     char c;
 
-    cout<<"Enter no. of rows and columns : ";
+    cout<<"Enter no. of rows and columns : "<<endl;
     cin>>rowcol;
 
-    cout<<"Enter first character : ";
+    cout<<"Enter first character : "<<endl;
     cin>>c;
 
     for (int i=1;i<=rowcol;i++)
