@@ -22,7 +22,7 @@ int main()
 
     cout<<"Enter first character : ";
     cin>>c;
-    char original=c;
+    char original = c;
 
     for (int i=1;i<=rowcol;i++)
     {
